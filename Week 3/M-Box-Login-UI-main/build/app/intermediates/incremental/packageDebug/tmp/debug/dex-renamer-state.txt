@@ -1,0 +1,4 @@
+#Sat Aug 26 23:28:00 PKT 2023
+base.0=C\:\\Users\\subha\\OneDrive\\Desktop\\Webpages\\Flutter\\M-Box-Login-UI-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
